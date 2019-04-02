@@ -1,32 +1,29 @@
-trying again 01
-
-trying again 02
-
-trying again 03
-
-trying again 04
-
-First-Name: Jean Paul
-
-Last-Name: Iradukunda
-
-First Commit
-
-Second Commit
-
-Third Commit
-
-commit to amend.
-
-multiple commit 01
-
-multiple commit 02
 
 changes on feature branch
 
 another chanhe on the feature branch
 
 more changes on the feature branch
+
+changes on feature branch
+
+another chanhe on the feature branch
+
+more changes on the feature branch
+
+changes on feature branch
+
+another chanhe on the feature branch
+
+more changes on the feature branch
+
+changes on feature branch
+
+another chanhe on the feature branch
+
+more changes on the feature branch
+
+new-feature only - 001
 
 feature branch only
 
